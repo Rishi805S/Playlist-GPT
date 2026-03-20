@@ -1,0 +1,28 @@
+# Langchain 
+langchain
+langchain_core
+langchain_community
+huggingface-hub
+
+# Hugging Face Integration (currently not using becuase of API issues switched to Ollama)
+langchain_huggingface
+
+# Ollama Integration
+langchain_ollama
+transformers
+sentence-transformers
+torch
+
+# Environment vairables Management
+dotenv
+
+# Machine Learning Utilities currently not using
+# numpy
+# scikit_learn
+
+# RAG modules
+langchain_text_splitters
+chromadb
+tiktoken
+youtube_transcript_api
+
