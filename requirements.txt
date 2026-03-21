@@ -22,7 +22,7 @@ dotenv
 
 # RAG modules
 langchain_text_splitters
-chromadb
+langchain-chroma
 tiktoken
 youtube_transcript_api
 
